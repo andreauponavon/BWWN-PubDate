@@ -19,11 +19,11 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "publication date",
+    "groupSelectorAttribute": "Label",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
